@@ -1,0 +1,12 @@
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/bin/Debug/net7.0/CompanyApp.Domain.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/bin/Debug/net7.0/CompanyApp.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/bin/Debug/net7.0/CompanyApp.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/CompanyApp.Domain.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/CompanyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/CompanyApp.Domain.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/CompanyApp.Domain.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/CompanyApp.Domain.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/CompanyApp.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/refint/CompanyApp.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/CompanyApp.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/obj/Debug/net7.0/ref/CompanyApp.Domain.dll

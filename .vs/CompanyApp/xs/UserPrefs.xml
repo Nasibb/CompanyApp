@@ -1,5 +1,6 @@
 ﻿<Properties StartupConfiguration="{899CD984-6431-44BE-AF98-58AC18FDA0B7}|Default">
   <MonoDevelop.Ide.ItemProperties.CompanyApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CompanyApp.Contex FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CompanyApp.Domain FirstBuild="True" />
 </Properties>

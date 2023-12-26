@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "CompanyApp.Contex/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "CompanyApp.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CompanyApp.Contex.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CompanyApp.Contex.dll": {}
-        }
-      },
       "CompanyApp.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -28,11 +15,6 @@
     }
   },
   "libraries": {
-    "CompanyApp.Contex/1.0.0": {
-      "type": "project",
-      "path": "../CompanyApp.Contex/CompanyApp.Contex.csproj",
-      "msbuildProject": "../CompanyApp.Contex/CompanyApp.Contex.csproj"
-    },
     "CompanyApp.Domain/1.0.0": {
       "type": "project",
       "path": "../CompanyApp.Domain/CompanyApp.Domain.csproj",
@@ -41,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "CompanyApp.Contex >= 1.0.0"
+      "CompanyApp.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -50,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp/CompanyApp.csproj",
-      "projectName": "CompanyApp",
-      "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp/CompanyApp.csproj",
+      "projectUniqueName": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj",
+      "projectName": "CompanyApp.Contex",
+      "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj",
       "packagesPath": "/Users/nasibikhtiyarli/.nuget/packages/",
-      "outputPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp/obj/",
+      "outputPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nasibikhtiyarli/.nuget/NuGet/NuGet.Config"
@@ -70,8 +52,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj": {
-              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj"
+            "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/CompanyApp.Domain.csproj": {
+              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Domain/CompanyApp.Domain.csproj"
             }
           }
         }
