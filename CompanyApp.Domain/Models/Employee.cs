@@ -1,11 +1,13 @@
 ﻿using System;
-namespace CompanyApp.Domain.Models
+namespace CompanyApp.Domain.Models.Common
 {
-	public class Employee
+	public class Employee:BaseEntity
 	{
-		public Employee()
-		{
-		}
+		public string Name { get; set; }
+		public string Surname { get; set; }
+		public int Age { get; set; }
+		public string Address { get; set; }
+		public string Department { get; set; }
 	}
 }
 

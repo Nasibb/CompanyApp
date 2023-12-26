@@ -1,11 +1,11 @@
 ﻿using System;
-namespace CompanyApp.Domain
+namespace CompanyApp.Domain.Models.Common
 {
-	public class Department
+	public class Department:BaseEntity
 	{
-		public Department()
-		{
-		}
+		public string Name { get; set; }
+
+		public int Capasity { get; set; }
 	}
 }
 
