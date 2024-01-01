@@ -12,9 +12,11 @@
   <ItemGroup>
     <None Remove="Interfaces\" />
     <None Remove="Repositories\" />
+    <None Remove="Repositories\DepartmentRepository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
     <Folder Include="Repositories\" />
+    <Folder Include="Repositories\DepartmentRepository\" />
   </ItemGroup>
 </Project>

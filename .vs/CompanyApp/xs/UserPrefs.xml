@@ -1,6 +1,30 @@
 ﻿<Properties StartupConfiguration="{899CD984-6431-44BE-AF98-58AC18FDA0B7}|Default">
-  <MonoDevelop.Ide.ItemProperties.CompanyApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CompanyApp.Contex FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CompanyApp.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CompanyApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompanyApp.Domain/EmployeeRepository.cs">
+    <Files>
+      <File FileName="CompanyApp.Contex/Interfaces/IRepository.cs" Line="8" Column="26" />
+      <File FileName="CompanyApp.Contex/DbContex.cs" Line="14" Column="24" />
+      <File FileName="CompanyApp.Contex/Repositories/EmployeeRepository.cs" Line="6" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompanyApp">
+            <Node name="CompanyApp.Contex">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Repositories">
+                <Node name="DepartmentRepository" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
