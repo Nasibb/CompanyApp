@@ -1,7 +1,7 @@
 ﻿using System;
 using CompanyApp.Domain.Models.Common;
 
-namespace CompanyApp.Contex.Interfaces
+namespace CompanyApp.DataContex.Interfaces
 {
     public interface IRepository<T> where T : BaseEntity
 	{

@@ -1,8 +1,8 @@
 ﻿using System;
-using CompanyApp.Contex.Interfaces;
+using CompanyApp.DataContex.Interfaces;
 using CompanyApp.Domain.Models.Common;
 
-namespace CompanyApp.Contex.Repositories
+namespace CompanyApp.DataContex.Repositories
 {
 	public class EmployeeRepository:IRepository<Employee>
 	{
@@ -37,7 +37,7 @@ namespace CompanyApp.Contex.Repositories
             return DbContex.Employees.Find(filter);
         }
 
-        public List<Employee> GetAll(Predicate<Employee> filter = null)
+        public List<Employee> GetAll(Predicate<Employee> filter =null)
         {
             return filter == null ? DbContex.Employees : DbContex.Employees.FindAll(filter);
         }

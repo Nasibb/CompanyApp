@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj",
-      "projectName": "CompanyApp.Contex",
-      "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj",
+      "projectUniqueName": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.DataContex.csproj",
+      "projectName": "CompanyApp.DataContex",
+      "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.DataContex.csproj",
       "packagesPath": "/Users/nasibikhtiyarli/.nuget/packages/",
       "outputPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/",
       "projectStyle": "PackageReference",

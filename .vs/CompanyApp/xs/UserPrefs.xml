@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{899CD984-6431-44BE-AF98-58AC18FDA0B7}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.CompanyApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CompanyApp.Business FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CompanyApp.Domain/EmployeeRepository.cs">
     <Files>
       <File FileName="CompanyApp.Contex/Interfaces/IRepository.cs" Line="8" Column="26" />
@@ -26,5 +26,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

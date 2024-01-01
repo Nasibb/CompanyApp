@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VZiGyBuT3lsGIRPjkIJ7VrONoXHOU2eIo56wK4tcXdYJ7yN3+G1/cj9yAjksmVN0ru/2OFMfJ4Mc1RjaMfLRQQ==",
+  "dgSpecHash": "RQqkIOTIlw4GAJj2rTwO9vzBhoCqjY1sfBPtnAHH9nb+XDzaXrfdY/92KJdncJ2GVdNy+y5fKFURwU80jC25YQ==",
   "success": true,
-  "projectFilePath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj",
+  "projectFilePath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.DataContex.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

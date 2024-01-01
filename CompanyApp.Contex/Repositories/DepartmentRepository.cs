@@ -1,8 +1,8 @@
 ﻿using System;
-using CompanyApp.Contex.Interfaces;
+using CompanyApp.DataContex.Interfaces;
 using CompanyApp.Domain.Models.Common;
 
-namespace CompanyApp.Contex.Repositories
+namespace CompanyApp.DataContex.Repositories
 {
     public class DepartmentRepository : IRepository<Department>
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using CompanyApp.Domain.Models.Common;
 
-namespace CompanyApp.Contex
+namespace CompanyApp.DataContex
 {
 	public static class DbContex
 	{
@@ -12,7 +12,6 @@ namespace CompanyApp.Contex
 		{
 			Employees = new();
 			Departments = new();
-			Console.WriteLine("membere muraciet..");
 		}
 	}
 }

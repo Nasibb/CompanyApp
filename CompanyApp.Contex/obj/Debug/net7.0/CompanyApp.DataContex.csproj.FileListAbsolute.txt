@@ -1,0 +1,15 @@
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/bin/Debug/net7.0/CompanyApp.DataContex.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/bin/Debug/net7.0/CompanyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/bin/Debug/net7.0/CompanyApp.DataContex.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/bin/Debug/net7.0/CompanyApp.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/bin/Debug/net7.0/CompanyApp.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.csproj.CopyComplete
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/refint/CompanyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/CompanyApp.DataContex.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/obj/Debug/net7.0/ref/CompanyApp.DataContex.dll

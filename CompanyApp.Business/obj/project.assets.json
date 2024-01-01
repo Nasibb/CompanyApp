@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CompanyApp.DataContex/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CompanyApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CompanyApp.DataContex.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompanyApp.DataContex.dll": {}
+        }
+      },
+      "CompanyApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CompanyApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompanyApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyApp.DataContex/1.0.0": {
+      "type": "project",
+      "path": "../CompanyApp.Contex/CompanyApp.DataContex.csproj",
+      "msbuildProject": "../CompanyApp.Contex/CompanyApp.DataContex.csproj"
+    },
+    "CompanyApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CompanyApp.Domain/CompanyApp.Domain.csproj",
+      "msbuildProject": "../CompanyApp.Domain/CompanyApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CompanyApp.DataContex >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/nasibikhtiyarli/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Business/CompanyApp.Business.csproj",
+      "projectName": "CompanyApp.Business",
+      "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Business/CompanyApp.Business.csproj",
+      "packagesPath": "/Users/nasibikhtiyarli/.nuget/packages/",
+      "outputPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Business/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nasibikhtiyarli/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.DataContex.csproj": {
+              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.DataContex.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

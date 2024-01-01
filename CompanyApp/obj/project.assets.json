@@ -1,48 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "CompanyApp.Contex/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "CompanyApp.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CompanyApp.Contex.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CompanyApp.Contex.dll": {}
-        }
-      },
-      "CompanyApp.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/CompanyApp.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CompanyApp.Domain.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "CompanyApp.Contex/1.0.0": {
-      "type": "project",
-      "path": "../CompanyApp.Contex/CompanyApp.Contex.csproj",
-      "msbuildProject": "../CompanyApp.Contex/CompanyApp.Contex.csproj"
-    },
-    "CompanyApp.Domain/1.0.0": {
-      "type": "project",
-      "path": "../CompanyApp.Domain/CompanyApp.Domain.csproj",
-      "msbuildProject": "../CompanyApp.Domain/CompanyApp.Domain.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "CompanyApp.Contex >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "/Users/nasibikhtiyarli/.nuget/packages/": {}
@@ -69,11 +32,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj": {
-              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/CompanyApp/CompanyApp.Contex/CompanyApp.Contex.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
