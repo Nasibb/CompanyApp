@@ -15,7 +15,7 @@ namespace CompanyApp.Business.Interfaces
 
 		List<Employee> GetAll(int age);
 
-		List<Employee> GetAll(Department department);
+		List<Employee> GetAll(Department departmentName);
 
 		List<Employee> GetAll();
 

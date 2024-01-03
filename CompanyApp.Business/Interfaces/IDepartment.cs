@@ -17,6 +17,7 @@ namespace CompanyApp.Business.Interfaces
 
 		List<Department> GetAll();
 
+		List<Department> GetAll(Department department);
 	}
 }
 
