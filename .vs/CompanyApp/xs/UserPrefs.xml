@@ -1,41 +1,37 @@
 ﻿<Properties StartupConfiguration="{899CD984-6431-44BE-AF98-58AC18FDA0B7}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CompanyApp.Business FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompanyApp.Business/Interfaces/IEmployee.cs">
     <Files>
-      <File FileName="CompanyApp.Contex/Repositories/EmployeeRepository.cs" Line="40" Column="66" />
-      <File FileName="CompanyApp.Contex/Repositories/DepartmentRepository.cs" Line="5" Column="26" />
-      <File FileName="CompanyApp.Business/Interfaces/IDepartment.cs" Line="10" Column="48" />
-      <File FileName="CompanyApp.Business/Services/DepartmentService.cs" Line="1" Column="1" />
+      <File FileName="CompanyApp.Business/Interfaces/IDepartment.cs" Line="20" Column="50" />
+      <File FileName="CompanyApp.Business/Interfaces/IEmployee.cs" Line="18" Column="50" />
+      <File FileName="CompanyApp.Contex/Repositories/EmployeeRepository.cs" Line="1" Column="1" />
+      <File FileName="CompanyApp.Contex/Repositories/DepartmentRepository.cs" Line="1" Column="1" />
+      <File FileName="CompanyApp.Contex/Interfaces/IRepository.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CompanyApp">
-            <Node name="CompanyApp.Business" expanded="True">
-              <Node name="Interfaces" expanded="True" />
+            <Node name="CompanyApp.Business">
+              <Node name="Interfaces">
+                <Node name="IEmployee.cs" selected="True" />
+              </Node>
               <Node name="Services" expanded="True" />
             </Node>
-            <Node name="CompanyApp.DataContex">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="DepartmentRepository" selected="True" />
-              </Node>
-            </Node>
-            <Node name="CompanyApp.Domain" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Common" expanded="True" />
-              </Node>
+            <Node name="CompanyApp.DataContex" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Repositories" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CompanyApp.Business FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CompanyApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

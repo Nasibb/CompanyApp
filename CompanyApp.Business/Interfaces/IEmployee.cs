@@ -19,6 +19,8 @@ namespace CompanyApp.Business.Interfaces
 
 		List<Employee> GetAll();
 
+		List<Employee> GetAll(string name);
+
 	}
 }
 
